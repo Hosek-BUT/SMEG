@@ -1,4 +1,4 @@
-SMEP
+SMEG
 ====
 
-Smart Metering Gateway - SMEP
+Smart Metering Gateway - SMEG
